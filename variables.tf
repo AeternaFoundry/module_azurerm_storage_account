@@ -464,6 +464,6 @@ EOT
     ])
     error_message = "[from validate.StorageAccountTags: invalid when len(value) > 50]"
   }
-  # Note: 52 additional provider-side validators are enforced at apply time but not mirrored as validation{} blocks here (bespoke or non-mechanically-translatable).
+  # Note: 35 additional provider-side validators are enforced at apply time but not mirrored as validation{} blocks here (bespoke or non-mechanically-translatable).
 }
 
